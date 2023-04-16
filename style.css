@@ -2,8 +2,8 @@
 .navbar {
     background-color: #fff;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center;
+    align-items: center; */
     padding: 15px 0;
     font-family: 'Proxima Nova', sans-serif;
 }
@@ -47,8 +47,10 @@ p {
     display: block;
     justify-content: center;
     align-items: center;
-    margin-left: 30%;
+    margin-left: 1%;
     padding: 10px;
+    
+  
 }
 
 /* cyrillic */
